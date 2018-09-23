@@ -1,3 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Art344</title>
+</head>
+
+<body>
+</body>
+</html>
+
+
+
+
+
+
 Mammoth Lakes
 
 Summary
